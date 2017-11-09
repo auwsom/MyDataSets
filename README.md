@@ -1,16 +1,17 @@
 # MyDataSets
 
-General:
+#General:
 
 [Data Packaged Core Datasets · GitHub](https://github.com/datasets)
 
 [Google BigQuery Public Datasets | BigQuery | Google Cloud Platform](https://cloud.google.com/bigquery/public-data/)
 
 [Great Github list of public data sets - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+
 [GitHub - caesar0301/awesome-public-datasets: A topic-centric list of ...](https://github.com/caesar0301/awesome-public-datasets)
 
 
-Finance:
+#Finance:
 
 https://finance.yahoo.com/quote/%5EGSPC/history?period1=-630950400&period2=1510128000&interval=1d&filter=history&frequency=1d
 
@@ -18,7 +19,8 @@ https://finance.yahoo.com/quote/%5EGSPC/history?period1=-630950400&period2=15101
 
 [Quandl: Financial, Economic and Alternative Data](https://www.quandl.com/)
 
-More on GitHub:
+#More on GitHub:
+
 [GitHub - umpirsky/country-list: List of all countries with names and ISO ...](https://github.com/umpirsky/country-list)
 
 'Dataset' tag:
@@ -27,7 +29,7 @@ https://github.com/topics/datasets
 'Opendata' tag:
 https://github.com/topics/opendata
 
-From 
+#From 'GitHub - caesar0301/awesome-public-datasets':
 - [Complementary Collections](https://github.com/caesar0301/awesome-public-datasets#id31)
 - [Data Packaged Core Datasets](https://github.com/datasets/)
 - [Database of Scientific Code Contributions](https://mozillascience.org/collaborate)
