@@ -12,6 +12,13 @@
 
 [GitHub - caesar0301/awesome-public-datasets: A topic-centric list of ...](https://github.com/caesar0301/awesome-public-datasets)
 
+[Data Sets | World Resources Institute](http://www.wri.org/resources/data_sets)
+
+[World Bank Open Data - World Bank Group](https://data.worldbank.org/)
+
+[UNdata](http://data.un.org/)
+
+[Google Public Data Explorer](https://www.google.com/publicdata/)
 
 ## Finance:
 
@@ -25,11 +32,13 @@ https://finance.yahoo.com/quote/%5EGSPC/history?period1=-630950400&period2=15101
 
 [GitHub - umpirsky/country-list: List of all countries with names and ISO ...](https://github.com/umpirsky/country-list)
 
-'Dataset' tag:
+'Datasets' tag:
 https://github.com/topics/datasets
 
 'Opendata' tag:
 https://github.com/topics/opendata
+
+[GitHub - jdorfman/awesome-json-datasets: A curated list of awesome ...](https://github.com/jdorfman/awesome-json-datasets)
 
 ## From 'GitHub - caesar0301/awesome-public-datasets':
 - [Complementary Collections](https://github.com/caesar0301/awesome-public-datasets#id31)
