@@ -1,6 +1,8 @@
 # MyDataSets
 
-#General:
+## General:
+
+[Welcome - Home - DataHub - Frictionless Data](http://datahub.io/)
 
 [Data Packaged Core Datasets · GitHub](https://github.com/datasets)
 
@@ -11,7 +13,7 @@
 [GitHub - caesar0301/awesome-public-datasets: A topic-centric list of ...](https://github.com/caesar0301/awesome-public-datasets)
 
 
-#Finance:
+## Finance:
 
 https://finance.yahoo.com/quote/%5EGSPC/history?period1=-630950400&period2=1510128000&interval=1d&filter=history&frequency=1d
 
@@ -19,7 +21,7 @@ https://finance.yahoo.com/quote/%5EGSPC/history?period1=-630950400&period2=15101
 
 [Quandl: Financial, Economic and Alternative Data](https://www.quandl.com/)
 
-#More on GitHub:
+## More on GitHub:
 
 [GitHub - umpirsky/country-list: List of all countries with names and ISO ...](https://github.com/umpirsky/country-list)
 
@@ -29,7 +31,7 @@ https://github.com/topics/datasets
 'Opendata' tag:
 https://github.com/topics/opendata
 
-#From 'GitHub - caesar0301/awesome-public-datasets':
+## From 'GitHub - caesar0301/awesome-public-datasets':
 - [Complementary Collections](https://github.com/caesar0301/awesome-public-datasets#id31)
 - [Data Packaged Core Datasets](https://github.com/datasets/)
 - [Database of Scientific Code Contributions](https://mozillascience.org/collaborate)
